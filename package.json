@@ -1,0 +1,21 @@
+{
+  "name": "les-saintes-fonts.com",
+  "version": "1.0.1",
+  "main": "src/index.md",
+  "repository": "git@github.com:gasp/les-saintes-fonts.git",
+  "author": "gasp",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "concurrently": "^6.2.1",
+    "stylus": "^0.55.0"
+  },
+  "scripts": {
+    "build:stylus": "stylus --compress ./src/styles/ --out ./dist/styles/",
+    "watch:stylus": "stylus --watch ./src/styles/ --out ./dist/styles/",
+    "build:11ty": "eleventy",
+    "watch:11ty": "eleventy --serve --port=8081",
+    "build": "yarn build:stylus && yarn build:11ty",
+    "dev": "concurrently -n stylus,11ty \"yarn watch:stylus\" \"yarn watch:11ty\"",
+    "debug": "DEBUG=Eleventy* yarn dev"
+  }
+}

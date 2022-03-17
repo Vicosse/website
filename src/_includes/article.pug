@@ -1,0 +1,12 @@
+extends /layout.pug
+
+block content
+  h1=title
+  time(datetime=page.date)=page.date
+  div.tags
+    each tag in tags
+      span=tag
+  div !{content}
+
+block footer
+  span hello

@@ -1,0 +1,26 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    title=title
+    link(rel="stylesheet", href="/styles/main.css")
+
+  //- string interpolation below
+  //- https://pugjs.org/language/interpolation.html#string-interpolation-unescaped
+  body
+    ul
+      each article in collections.articles
+        li(class=page.url == article.url ? 'active' : '')
+          a(href=article.url)
+            if article.data.title
+              span(class='title')
+                = article.data.title
+          if article.data.date
+           span(class='date')
+             = article.data.date
+    block content
+    //- footer should be only on index, yet atm there is only one page
+    footer
+      block footer
+        div(class="update") Date de dernière mise à jour :&nbsp;
+          span #{page.date.toISOString()}
