@@ -8,19 +8,28 @@ html
   //- string interpolation below
   //- https://pugjs.org/language/interpolation.html#string-interpolation-unescaped
   body
-    ul
-      each article in collections.articles
-        li(class=page.url == article.url ? 'active' : '')
-          a(href=article.url)
-            if article.data.title
-              span(class='title')
-                = article.data.title
-          if article.data.date
-           span(class='date')
-             = article.data.date
-    block content
+    .header
+      div ici une image
+    .flex
+      nav
+        ul
+          li
+            a(href="/") Page d'accueil
+          each article in collections.articles
+            li(class=page.url == article.url ? 'active' : '')
+              a(href=article.url)
+                if article.data.title
+                  span(class='title')
+                    = article.data.title
+              if article.data.date
+               span(class='date')
+                 = article.data.date
+      main
+        block content
     //- footer should be only on index, yet atm there is only one page
     footer
       block footer
         div(class="update") Date de dernière mise à jour :&nbsp;
           span #{page.date.toISOString()}
+        div(class="home")
+          a(href="/") page d'accueil
