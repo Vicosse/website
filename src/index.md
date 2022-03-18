@@ -1,8 +1,17 @@
 ---
+title: Stage d'observation en entreprise
 layout: home.pug
-title: Rapport de stage de Victor
+
+
 ---
 
 # {{ title }}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Victor SENN en 3E à l'Externat des Enfants Nantais (Nantes).
+En stage chez Domitille Haffner (Entreprise individuelle) à Moutiers au Perche (61110) du 14 mars au 18 mars.
+
+Ce site à été créé pour présenter mon rapport de stage de 3ème.
+J'ai choisi un stage dans le milieu du design informatique et du codage.
+J'ai choisi un stage dans ce milieu là puisque l'informatique m'a toujours plus et je voulais savoir si ce milieu pourrais être pour moi.
+Cela m'aide dans mon orientation, pour pouvoir trouver un métier passionnant et que j'aime.
+Pour finir, ce que j'attend de ce stage c'est d'être plus autonome et comprendre un maximum de choses sur ces métiers.
