@@ -14,8 +14,8 @@
     "watch:stylus": "stylus --watch ./src/styles/ --out ./dist/styles/",
     "build:11ty": "eleventy",
     "watch:11ty": "eleventy --serve --port=8081",
-    "build": "yarn build:stylus && yarn build:11ty",
-    "dev": "concurrently -n stylus,11ty \"yarn watch:stylus\" \"yarn watch:11ty\"",
+    "build": "concurrently \"npm:build:*\"",
+    "dev": "concurrently \"npm:watch:*\"",
     "debug": "DEBUG=Eleventy* yarn dev"
   }
 }
