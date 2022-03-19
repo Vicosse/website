@@ -1,9 +1,10 @@
 body
   margin 0
   padding 0
-  font-family arial
 
-
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700")
+  body
+    font-family: 'Open Sans', sans-serif;
 
 @media all and (min-width: 960px)
   .flex
@@ -16,7 +17,6 @@ body
 
   main
     flex-grow 1
-    background pink
 
 .header
   background rgb(3,42,104)
@@ -47,16 +47,23 @@ body
 nav
   background #eee
   padding 1rem 0
-  li
-    line-height 1.5rem
-    &.active
-      font-weight bold
-    .date
-      display none
+  ul
+    list-style: none
+    li
+      line-height 1.7rem
+      &.active
+        font-weight bold
+      .date
+        display none
 
 main
   margin-left 1rem
   margin-right 1rem
+  .content
+    max-width 50rem
+    padding-top 2rem
+    color #333
+
 
 footer
   margin-top 2rem
@@ -74,6 +81,11 @@ img
 
 h1, h2
   font-weight normal
+  font-family Rockwell
+
+h1
+  font-weight bold
+  font-size 26px
 
 sup
   font-size .5em
