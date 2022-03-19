@@ -2,7 +2,6 @@
 title: Stage d'observation en entreprise
 layout: home.pug
 
-
 ---
 
 # {{ title }}

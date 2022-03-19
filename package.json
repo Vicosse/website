@@ -1,9 +1,7 @@
 {
-  "name": "les-saintes-fonts.com",
+  "name": "webvictor",
   "version": "1.0.1",
   "main": "src/index.md",
-  "repository": "git@github.com:gasp/les-saintes-fonts.git",
-  "author": "gasp",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "concurrently": "^6.2.1",
