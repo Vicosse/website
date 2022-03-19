@@ -3,7 +3,4 @@ extends /layout.pug
 block content
   h1=title
   time(datetime=page.date)=page.date.toLocaleDateString('fr-FR')
-  div.tags
-    each tag in tags
-      span=tag
   div !{content}

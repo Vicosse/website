@@ -4,6 +4,7 @@ date: 2022-03-14
 layout: article.pug
 tags:
   - pages
+order: 7
 
 ---
 * Sketch: Logiciel de design d'interface permettant de créé des maquettes et des wireframes. C'est aussi un logiciel de dessin vectoriel dont les fonctionnalités sont très adaptées au wireframing (pour les wireframes) et au design d'application.
@@ -22,7 +23,7 @@ Voici tout les raccourcis et les fonctionnalités que j'ai apprises:
 - Mettre à jour style de texte: appearence, update.
 - Créer Symbole: sélectionner symbole en dessous de pages, appuyer sur le losange  à côté du nom du document puis lui donner un nom. Peut le modifier dans la page symbols.
 - Et on m'a proposé une vidéo pour apprendre à utiliser Sketch:
-[Apprendre à utiliser Sketch](https://youtu.be/ilcwjXTqyNM)
+
 
 * Github: est une plate-forme qui permet aux développeurs de stocker, de gérer et de partager, publiquement ou non, le code qu'ils créent. C'est grâce à ce site que j'ai pu faire le site avec Gaspard Bernaert.
 * Git: bien sûr à un rapport avec Github, c'est un outil qui permet de traquer tous les fichiers de ton projet.
