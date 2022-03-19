@@ -1,7 +1,6 @@
 ---
 title: Le métier de développeur
-date: 2022-03-14
-layout: article.pug
+layout: page.pug
 tags:
   - pages
 order: 6

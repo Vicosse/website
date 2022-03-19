@@ -1,6 +1,6 @@
 ---
 title: Les logiciels utilisés
-layout: article.pug
+layout: page.pug
 tags:
   - pages
 order: 9

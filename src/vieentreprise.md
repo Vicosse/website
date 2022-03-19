@@ -1,6 +1,6 @@
 ---
 title: Vie en entreprise
-layout: article.pug
+layout: page.pug
 tags:
   - pages
 order: 3

@@ -1,6 +1,6 @@
 ---
 title: Bilan du stage
-layout: article.pug
+layout: page.pug
 tags:
   - pages
 order: 10
