@@ -11,7 +11,7 @@ html
     .header
       div.logo
         a(href="/")
-          img(src="/assets/logosite.jpeg")
+          img(src="/assets/webviclogo.png")
       p.title Stage d’observation du rapport de stage
       div.subtitle par Victor SENN en 3E à  l’ Externat des enfants nantais.
     .flex
@@ -19,6 +19,16 @@ html
         ul
           li
             a(href="/") Page d'accueil
+          each p in collections.pages.sort((a,b) => a.data.order - b.data.order)
+            li(class=page.url == p.url ? 'active' : '')
+              a(href=p.url)
+                if p.data.title
+                  span(class='title')
+                    = p.data.title
+        hr
+        ul
+          li Journal de bord
+
           each article in collections.articles
             li(class=page.url == article.url ? 'active' : '')
               a(href=article.url)

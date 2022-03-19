@@ -3,7 +3,7 @@ title: Le métier de développeur
 date: 2022-03-14
 layout: article.pug
 tags:
-  - articles
+  - pages
 
 ---
 * Qu’est-ce qu’un développeur?

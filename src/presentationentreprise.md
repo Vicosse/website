@@ -3,7 +3,8 @@ title: Présentation de l'entreprise
 date: 2022-03-14
 layout: article.pug
 tags:
-  - articles
+  - pages
+order: 2
 
 ---
 Nom de l'entreprise: Domitille Haffner entreprise individuelle

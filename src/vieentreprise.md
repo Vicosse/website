@@ -2,7 +2,8 @@
 title: Vie en entreprise
 layout: article.pug
 tags:
-  - articles
+  - pages
+order: 3
 
 ---
 

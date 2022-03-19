@@ -2,7 +2,8 @@
 title: Bilan du stage
 layout: article.pug
 tags:
-  - articles
+  - pages
+order: 10
 
 ---
 Grâce à ce stage, je suis devenu plus autonome et j'ai appris beucoup de choses ( apprendre à utiliser un mac, Sketch, Atom, Github, apprendre les raccourcis des applications et du mac,...) comme je l'attendais.

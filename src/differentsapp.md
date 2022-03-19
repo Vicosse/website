@@ -3,7 +3,7 @@ title: Les différents logiciels et applications utilisés
 date: 2022-03-14
 layout: article.pug
 tags:
-  - articles
+  - pages
 
 ---
 * Sketch: Logiciel de design d'interface permettant de créé des maquettes et des wireframes. C'est aussi un logiciel de dessin vectoriel dont les fonctionnalités sont très adaptées au wireframing (pour les wireframes) et au design d'application.
