@@ -17,7 +17,7 @@ html
       div.subtitle par Victor SENN en 3E à  l’ Externat des enfants nantais.
     .flex
       nav
-        ul
+        ul.pages
           li
             a(href="/") Page d'accueil
           each p in collections.pages.sort((a,b) => a.data.order - b.data.order)
@@ -26,7 +26,6 @@ html
                 if p.data.title
                   span(class='title')
                     = p.data.title
-        hr
         ul
           li Journal de bord
 
