@@ -8,7 +8,7 @@ order: 4
 
 ---
 
-L'équipe expérience digitale est composée d'équipes qui ont différentes aire de compétences et se partagent le travail en plusieurs rôles
+L'équipe expérience digitale est composée d'équipes qui ont différentes aires de compétences et se partagent le travail en plusieurs rôles.
 
 
 ## UI / User Interface
