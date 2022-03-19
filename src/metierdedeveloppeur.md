@@ -25,4 +25,6 @@ Chaque langage de programmation a une syntaxe propre à lui.
 
 Voici le syntaxe du Markdown avec lequel j'ai codé le site:
 
-![syntaxe](/assets/syntaxemarkdown.jpeg) Photographie des syntaxe faciles en markdown.
+![syntaxe](/assets/syntaxemarkdown.jpeg)
+
+*Photographie des syntaxe faciles en markdown.*
