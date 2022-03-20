@@ -22,9 +22,9 @@ Voici tous les raccourcis et les fonctionnalités que j'ai apprises:
 - Ovale: O
 - Ovale régulier: option/shift
 - Ovale à partir d’un centre: alt/option
-- Savoir choisir la couleur d’une forme, le type ( linéaire, radiale, angulaire), l’opacité         
+- Savoir choisir la couleur d’une forme, le type ( linéaire, radial, angulaire), l’opacité         
 - Zoomer, Dézoomer: command -/+
-- Prendre plusieurs couleurs pour une photo… : prendre une photo/logo, aller dans « fills », prendre le type « linear », et appuyer sur le point voulu pour mettre la couleur voulu, faire pareil pour le deuxième point.
+- Prendre plusieurs couleurs pour une photo… : prendre une photo/logo, aller dans « fills », prendre le type « linear », et appuyer sur le point voulu pour mettre la couleur voulue, faire pareil pour le deuxième point.
 - Rajouter une couleur: fills, +, choisir la couleur.
 - Mettre du texte: T, puis allonger zone de texte
 - Choisir style de texte ou créer plusieurs style de texte: cliquer sur le texte, create, définir style de texte
