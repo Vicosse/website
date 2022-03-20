@@ -7,11 +7,11 @@ order: 6
 ---
 ## Qu’est-ce qu’un développeur?
 
-Un développeur est personne en charge de la réalisation d'un système ou d'une application.
-Gaspard Bernaert (Mari de Domitille Haffner) m'a donc expliqué durant ce stage les bases du code.
-C'est grâce à cela que mon site peut être vu.
-Ce que j'ai remarqué est que codé est quelque chose de compliqué, il faut être très attentif à ce que l'on écrit puisque si nous n'écrivons pas bien quelque chose cela pourrait ne pas fonctionné. Les espaces, la ponctuation,... la syntaxe est très importante.   
+Un développeur est une personne en charge de la réalisation d'un système ou d'une application. Il fait du développement grâce au codage. Le codage consiste a donner des instructions à un ordinateur au moyen de langages de programmation. 
 
+Gaspard Beernaert, développeur, m'a expliqué durant mon stage les bases du codage.
+C'est grâce à cela que j'ai pu construire ce site.
+  
 ## Les langages de programmation:
 
 Un langage de programmation est un langage qui permet de formuler des algorithmes et de produire des programmes informatiques qui utilisent ces algorithmes. Pour rappel un algorythme est composé d'instructions et d'opérations qui sont dans un ordre précis sur des données pour produire un résultat mais surtout souvent pour résoudre des
