@@ -39,12 +39,5 @@ Qu'est-ce que cette nouvelle organisation de travail change?
 
 Risques professionnels: posture, fatigue oculaire, sédentarité.
 
-Rôles dans l'équipe designer:
-
- 
-
 Rituels: toutes les réunions de la semaine: <!-- schéma rituels -->
 
-Légende: *Les outils utilisés par les designers:*
-
-![outils designer](/assets/outilsdesigner.jpg) Schéma des outils utilisés par les designers.
