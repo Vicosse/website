@@ -26,7 +26,7 @@ Organigramme: [Organigramme de l'équipe designer BNP Paribas et Hello Bank!](ht
 Les horaires sont flexibles, mais généralement les réunions ont lieu pendant les horaires de bureau.
 > Horaires: 9h à 12h et de 14h à 18h.
 
-Les locaux du groupe BNP Paribas sont situés à Paris, l'entreprise individuelle de Domitille Haffner est située dans le Perche.
+Les locaux du groupe BNP Paribas sont situés à Paris, l'entreprise individuelle de Domitille Haffner est située dans l'Orne (le Perche).
 
 [Les mercredis](/articles/2022-03-16) toute l'équipe se retrouve, à Paris, pour une réunion hebdomadaire importante puisque le reste du temps, ils travaillent à distance. 
 
@@ -35,7 +35,7 @@ Les locaux du groupe BNP Paribas sont situés à Paris, l'entreprise individuell
 
 A cause de la pandémie, le travail à distance est devenu indispensable. Cette expérience hors du commun a permis de constater que les employés étaient suffisamment bien organisés et efficaces pour ne plus avoir besoin de se déplacer tous les jours.
 
-Qu'est-ce que cette nouvelle organisation de travail change?
+Qu'est-ce que cette nouvelle organisation de travail change ?
 
 - Emergence de nouveaux moyens de communication (Slack, Trello,...) 
 - Un environnement de travail choisi plus adapté à la vie personnelle de chacun (Horaires flexibles, gain de temps de transports, environnement plus agréable).
