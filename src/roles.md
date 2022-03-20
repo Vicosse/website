@@ -26,3 +26,7 @@ Chef de Projet, c'est lui qui dirige le projet, il récolte le besoin et le donn
 Développeur, il code toute l'interface, par exemple un bouton qui à été créé sur la page d'accueil et qui mène sur une autre page, c'est lui qui va le codé pour que dès que le bouton est cliqué, il amène sur l'autre page.
 
 ![rôle équipe](/assets/rolesmetiers.jpg) Schéma des différents rôles dans l'équipe
+
+Légende: *Les outils utilisés par les designers:*
+
+![outils designer](/assets/outilsdesigner.jpg) Schéma des outils utilisés par les designers.
