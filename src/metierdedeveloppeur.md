@@ -14,15 +14,15 @@ C'est grâce à cela que j'ai pu construire ce site.
   
 ## Les langages de programmation:
 
-Un langage de programmation est un langage qui permet de formuler des algorithmes et de produire des programmes informatiques qui utilisent ces algorithmes. Pour rappel un algorythme est composé d'instructions et d'opérations qui sont dans un ordre précis sur des données pour produire un résultat mais surtout souvent pour résoudre des
-problèmes
+Un langage de programmation est un langage qui permet de formuler des algorithmes et de produire des programmes informatiques qui utilisent ces algorithmes. Pour rappel un algorithme est composé d'instructions et d'opérations qui sont dans un ordre précis sur des données pour produire un résultat mais surtout souvent pour résoudre des problèmes. Chaque langage de programmation a sa propre syntaxe (comme les différentes langues vivantes).
 
 ## Le markdown:
 
-Le markdown est donc un language de codage comme d'autres aussi très connus comme Html, Python ( que l'on utilise au lycée), Java,...
-Chaque langage de programmation a une syntaxe propre à lui.
+Le markdown est un des langages utilisés par les développeurs, c'est celui que j'ai appris durant mon stage. 
 
-Voici le syntaxe du Markdown avec lequel j'ai codé le site:
+Le markdown est un langage de codage très connus comme Html, Python ( que l'on utilise au lycée), Java,...
+ 
+Voici la syntaxe du Markdown avec lequel j'ai codé le site:
 
 ![syntaxe](/assets/syntaxemarkdown.jpeg)
 
