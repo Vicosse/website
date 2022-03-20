@@ -6,7 +6,7 @@ tags:
 order: 2
 
 ---
-* Nom de l'entreprise: Domitille Haffner entreprise individuelle
+* Nom de l'entreprise: Domitille Haffner (entreprise individuelle)
 
 * Adresse de facturation : 15 rue de Lappe 75011 Paris/ Adresse de bureau : Courtainville 61110 Moutiers au Perche
 
@@ -26,4 +26,4 @@ order: 2
 
 ![carte france](/assets/cartefra.jpg)
 
-*Photographie d'où se situe Courtainville en France.*
+*Situation géographique de Courtainville en France.*
