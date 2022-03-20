@@ -6,6 +6,12 @@ tags:
 order: 9
 
 ---
+Pour effectuer toutes les tâches l'ensemble des équipes utilisent différents outils:  
+
+![outils designer](/assets/outilsdesigner.jpg) 
+
+*Les outils utilisés par les designers*
+
 ## Sketch
 
 Logiciel de design d'interface permettant de créé des maquettes et des wireframes. C'est aussi un logiciel de dessin vectoriel dont les fonctionnalités sont très adaptées au wireframing (pour les wireframes) et au design d'application.
