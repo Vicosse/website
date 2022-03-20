@@ -14,3 +14,5 @@ Je ne vois plus la vie professionnelle comme une contrainte mais un plaisir, si 
 
 Pendant ce stage, l'ambiance d'équipe, de groupe m'a beaucoup plu puisque tout le monde est attentionné, ce qui était plus difficile à comprendre était le jargon des designers et des développeurs comme par exemple "nativ", "wireframe", "UI", "UX",...
 Ce stage m'a donné envie d'aller plus exploré le monde de l'informatique que ce soit dans le design ou dans le codage, je trouve cela intéressant et je me retrouve dans ce milieu.
+
+Ce que j'ai remarqué est que codé est quelque chose de compliqué, il faut être très attentif à ce que l'on écrit puisque si nous n'écrivons pas bien quelque chose cela pourrait ne pas fonctionné. Les espaces, la ponctuation,... la syntaxe est très importante.
