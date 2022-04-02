@@ -17,7 +17,7 @@ Son poste consiste à gérer une équipe UI (voir [métiers](metiers.md)) dans l
 
 * Le groupe BNP Paribas comporte 190 000 employés en France.
 
-Organigramme: [Organigramme de l'équipe designer BNP Paribas et Hello Bank!](https://trello.com/1/cards/622f0d3b8d717e4a16fff641/attachments/622f0d3c8d717e4a16fff8ea/previews/622f0d3c8d717e4a16fff8f2/download/organigramme2022.png)
+Organigramme: ![Organigramme de l'équipe designer BNP Paribas et Hello Bank!](https://trello.com/1/cards/622f0d3b8d717e4a16fff641/attachments/622f0d3c8d717e4a16fff8ea/previews/622f0d3c8d717e4a16fff8f2/download/organigramme2022.png)
 
 <!-- organigramme-->
 
